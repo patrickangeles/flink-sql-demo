@@ -1,4 +1,6 @@
-# Build End-to-End Streaming Application using Flink SQL、Kafka、MySQL、Elasticsearch and Kibana.
+# Build End-to-End Streaming Application using Flink SQL, <s>Kafka</s> Redpanda, MySQL,Elasticsearch and Kibana.
+
+This project was forked from <https://github.com/wuchong/flink-sql-demo>. It replaces Kafka with Redpanda for `docker-compose`
 
 <img width="451" alt="图片2" src="https://user-images.githubusercontent.com/5378924/79943461-838bdc80-849b-11ea-81f4-b28b31e03176.png">
 
